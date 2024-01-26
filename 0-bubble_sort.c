@@ -1,10 +1,9 @@
-#include <stdio.h>
 #include "sort.h"
 
 /**
- * bubble_sort - Sorts elements of an array from min to max value
- * @size: Size of the array
- * @array: The pointer to an array
+ * bubble_sort - Sorts the elements of an array from min to max value
+ * @size: Size of the array of bubble_sort
+ * @array: The pointer to an array of bubble_sort
  */
 
 void bubble_sort(int *array, size_t size)
